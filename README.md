@@ -19,6 +19,7 @@ Focusing on Android development with Kotlin & Jetpack Compose - also learning Fl
 - Java
 - Jetpack Compose
 - Android Studio
+- Koin
 - Git & GitHub
 - Trello
 - Figma
