@@ -3,27 +3,6 @@
 I am an Application Developer Student  
 Focusing on Android development with Kotlin & Jetpack Compose - also learning Flutter, React, and Swift.
 
-## 🛠 Tech Stack
-- Kotlin
-- Java
-- Jetpack Compose
-- Android Studio
-- Git & GitHub
-- Trello
-- Figma
-- Lucid: UML-Diagram
-
-## 🌱 Currently Learning
-- Clean Architecture
-- MVVM
-- REST APIs
-- Modern Android Development
-
-## 🚀 Goals
-- Build useful mobile apps
-- Improve UI/UX
-- Collaborate on open-source projects
-
 ## 🔭 I’m currently working on...
 - **Goal Tracking App**  
   Built with Navigation3, Jetpack Compose, MVVM, StateFlow & Coroutines  
@@ -35,7 +14,28 @@ Focusing on Android development with Kotlin & Jetpack Compose - also learning Fl
 - Improving architecture patterns
 - Exploring cross-platform frameworks
 
-## 💻 Android apps made for school projects:
+# 🛠 Tech Stack
+- Kotlin
+- Java
+- Jetpack Compose
+- Android Studio
+- Git & GitHub
+- Trello
+- Figma
+- Lucid: UML-Diagram
+
+# 🌱 Currently Learning
+- Clean Architecture
+- MVVM
+- REST APIs
+- Modern Android Development
+
+# 🚀 Goals
+- Build useful mobile apps
+- Improve UI/UX
+- Collaborate on open-source projects
+
+# 💻 Android apps made for school projects:
   👉 Repo:  https://github.com/aurevau/chatApplicationGroup1
   👉 Repo:  https://github.com/aurevau/warCardGame
 
