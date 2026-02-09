@@ -1,7 +1,7 @@
 # Hi, I'm Aurelie 👋
 
-🎓 Application Developer Student  
-📱 Focused on Android development with Kotlin & Jetpack Compose - also learning Flutter, React, and Swift.
+I am an Application Developer Student  
+Focusing on Android development with Kotlin & Jetpack Compose - also learning Flutter, React, and Swift.
 
 ## 🛠 Tech Stack
 - Kotlin
