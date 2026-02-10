@@ -7,8 +7,8 @@ Focusing on Android development with Kotlin & Jetpack Compose - also learning Fl
 - **War Card Game App** (my first Android project during my studies, now being further developed using newly acquired skills)  
   👉 Repo: https://github.com/aurevau/warCardGameCompose
 
-  - **Goal Tracking App**  
-  Built with Navigation3, Jetpack Compose, MVVM, StateFlow & Coroutines  
+- **Goal Tracking App**  
+Built with Navigation3, Jetpack Compose, MVVM, StateFlow & Coroutines  
   👉 Repo: https://github.com/aurevau/task
 
 - Improving architecture patterns
