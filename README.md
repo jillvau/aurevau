@@ -1,7 +1,7 @@
 # Hi, I'm Aurelie 👋
 
 I am an Application Developer Student  
-Focusing on Android development with Kotlin & Jetpack Compose - also learning Flutter, React, and Swift.
+Focusing on Android development with Kotlin & Jetpack Compose - also learning Flutter, React Native, and Swift.
 
 ## I’m currently working on...  
 - **War Card Game App** (my first Android project during my studies, now being further developed using newly acquired skills)  
