@@ -1,4 +1,4 @@
-# Hi, I'm Jill Aurelie 👋
+# Hi, I'm Jill Aurelie 🇸🇪🇨🇭
 
 I am an Application Developer Student  
 Focusing on Android development with Kotlin & Jetpack Compose.
