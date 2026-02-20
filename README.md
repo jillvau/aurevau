@@ -1,4 +1,4 @@
-# Hi, I'm Jill 👋
+# Hi, I'm Jill Aurelie 👋
 
 I am an Application Developer Student  
 Focusing on Android development with Kotlin & Jetpack Compose - also learning Flutter, React Native, and Swift.
@@ -52,4 +52,7 @@ This experience is equivalent to working with REST APIs and backend integration 
 ### Android apps made for school projects:
   👉 Repo:  https://github.com/aurevau/chatApplicationGroup1
   👉 Repo:  https://github.com/aurevau/warCardGame
+
+
+  LinkedIn: https://www.linkedin.com/in/jill-aurelie-vaudan-11ba871a2/
 
