@@ -4,22 +4,22 @@ I am an Application Developer Student
 Focusing on Android development with Kotlin & Jetpack Compose - also learning Flutter, React Native, and Swift.
 
 ## I’m currently working on...  
-- **War Card Game App** (my first Android project during my studies, now being further developed using newly acquired skills)  
-  👉 Repo: https://github.com/aurevau/warCardGameCompose
-
-- **Goal Tracking App**  
-Built with Navigation3, Jetpack Compose, MVVM, StateFlow & Coroutines  
-  👉 Repo: https://github.com/aurevau/task
-
 - Improving architecture patterns
+- To Build Scalable Systems
+  - MVVM
+- Navigation 3
+- Jetpack Compose
+- Viewmodel Injection
+  - Hilt, Koin
 - Exploring cross-platform frameworks
+- REST APIs
+- Modern Android Development
 
 ### Tech Stack
 - Kotlin
 - Java
 - Jetpack Compose
 - Android Studio
-- Koin
 - Git & GitHub
 - Trello
 - Figma
@@ -36,23 +36,15 @@ I have experience building frontend applications that consume backend services u
 
 This experience is equivalent to working with REST APIs and backend integration in modern app development.
 
-### Currently Learning
-- Clean Architecture
-- To Build Scalable Systems
-- MVVM
-- REST APIs
-- Hilt
-- Modern Android Development
-
 ### Goals
 - Build useful mobile apps
 - Improve UI/UX
-- Collaborate on open-source projects
+- Finding a resourceful LIA where I can develop my skills further with experienced developers and likeminded people. 
 
 ### Android apps made for school projects:
   👉 Repo:  https://github.com/aurevau/chatApplicationGroup1
   👉 Repo:  https://github.com/aurevau/warCardGame
 
 
-  LinkedIn: https://www.linkedin.com/in/jill-aurelie-vaudan-11ba871a2/
+  LinkedIn: [https://www.linkedin.com/in/jill-aurelie-vaudan-11ba871a2/](https://www.linkedin.com/in/jill-aurelie-vaudan-11ba871a2/)
 
