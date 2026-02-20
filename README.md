@@ -1,6 +1,6 @@
 # Hi, I'm Jill Aurelie
 
-I am an Application Developer Student 🇸🇪🇨🇭
+I am an Application Developer Student
 Focusing on Android development with Kotlin & Jetpack Compose.
 
 ## I’m currently working on...  
